@@ -18,10 +18,3 @@
 
 And ten more features
 
-## Project source
-
-https://github.com/tohidnateghi/mylp
-
-## Contact me on telegram
-
-https://t.me/tohid_74n
